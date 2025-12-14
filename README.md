@@ -1,0 +1,2 @@
+# Nuclei-Report-Generator
+这是一个基于Nuclei扫描结果的报告生成工具，可以将Nuclei的文本格式扫描结果转换为美观的Word报告。程序支持两种模式：IP地址报告生成和基于设备名称的报告生成。
